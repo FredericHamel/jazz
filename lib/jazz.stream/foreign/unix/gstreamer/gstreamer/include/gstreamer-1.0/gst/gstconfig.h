@@ -96,21 +96,21 @@
  *
  * Disable run-time GObject cast checks
  */
-#define GST_DISABLE_CAST_CHECKS 1
+#define GST_DISABLE_CAST_CHECKS 0
 
 /**
  * GST_DISABLE_GLIB_ASSERTS:
  *
  * Disable GLib assertion
  */
-#define GST_DISABLE_GLIB_ASSERTS 1
+#define GST_DISABLE_GLIB_ASSERTS 0
 
 /**
  * GST_DISABLE_GLIB_CHECKS:
  *
  * Disable GLib checks such as API guards
  */
-#define GST_DISABLE_GLIB_CHECKS 1
+#define GST_DISABLE_GLIB_CHECKS 0
 
 
 /* FIXME: test and document these! */
