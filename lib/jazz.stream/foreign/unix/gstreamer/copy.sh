@@ -106,6 +106,7 @@ cpshared libgstvideo-1.0.so 0
 cpshared libjpeg.so 8
 cpshared libm.so 6
 cpshared libogg.so 0
+cpshared libpcre.so 1
 cpshared libpng16.so 16
 cpshared libvorbis.so 0
 cpshared libvorbisenc.so 2
