@@ -103,14 +103,14 @@
  *
  * Disable GLib assertion
  */
-#define GST_DISABLE_GLIB_ASSERTS 0
+#define GST_DISABLE_GLIB_ASSERTS 1
 
 /**
  * GST_DISABLE_GLIB_CHECKS:
  *
  * Disable GLib checks such as API guards
  */
-#define GST_DISABLE_GLIB_CHECKS 0
+#define GST_DISABLE_GLIB_CHECKS 1
 
 
 /* FIXME: test and document these! */
