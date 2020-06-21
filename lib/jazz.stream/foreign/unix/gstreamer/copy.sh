@@ -83,6 +83,7 @@ cpplugin gstreamer-1.0/libgstwavparse
 cpplugin gstreamer-1.0/libgstx264
 cpplugin gstreamer-1.0/libgstximagesrc
 
+cpshared libc.so 6
 cpshared libdl.so 2
 cpshared libffi.so 7
 cpshared libgio-2.0.so 0
